@@ -8,7 +8,7 @@
     "start": "node index.js",
     "pkg": "pkg index.js --output playlistToFolder --targets node14-win-x64,node14-linux-x64,node14-macos-x64"
   },
-  "author": "Renzo",
+  "author": "Renzo Candiotti",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
