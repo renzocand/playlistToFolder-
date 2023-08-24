@@ -1,10 +1,11 @@
 # playlistToFolder-
-Sirve para utilizar una playlist y copiar los archivos y exportarlos
 
-Puedes solo descargar el archivo playlistToFolder-win.exe(si es windows), en la misma ruta del exe tener el playlist (m3u, m3u8 o EXTINF)
+Este programa te permite aprovechar tus listas de reproducción al copiar y exportar los archivos de manera sencilla.
 
-Solo se aceptan por el momento estos 3 formatos, los cuales sirven para el reproductor aimp y virtualdj. No he probado con otros asi que desconozco, Si no funciona con el formato de tu playlist consultame para modificarlo y que sea mas robusto el programa
+Simplemente descarga el archivo playlistToFolder-win.exe (en caso de usar Windows) y colócalo en la misma ubicación que tu lista de reproducción (m3u, m3u8 o EXTINF).
 
-Una vez ejecutes el exe automaticamente creara una carpeta con el nombre de tu playlist y copiara todos las canciones que tengas en tu playlist
+Por ahora, únicamente se admiten estos tres formatos, los cuales son compatibles con los reproductores AIMP y VirtualDJ. No he probado con otros formatos, por lo que no puedo garantizar su funcionamiento. Si el formato de tu lista de reproducción no es compatible, contáctame para realizar ajustes y mejorar la robustez del programa.
 
+Una vez ejecutes el archivo ejecutable, se creará automáticamente una carpeta con el nombre de tu lista de reproducción y se copiarán todas las canciones contenidas en ella. ¡Así de simple!
 
+https://github.com/renzocand/playlistToFolder-/releases/tag/v1.0.0
